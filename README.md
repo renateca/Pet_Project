@@ -1,0 +1,1 @@
+## My name is Vladimir, and I'm a student of applied computer science at the Slovak Technical University. I've compiled my homework projects here.
